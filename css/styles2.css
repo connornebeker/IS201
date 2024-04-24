@@ -1,0 +1,88 @@
+body{
+    background-color:beige;
+}
+
+.list{
+    font-size:medium;
+    font-weight: lighter;
+    font-style: normal;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color:aliceblue
+}
+
+a{
+    font-family: sans-serif;
+    font-size: small;
+    color:black
+}
+
+.Heading{
+    font-size:larger;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkblue
+}
+
+.common{
+    background-color: #cccccc;
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header{
+    text-align: center;
+
+}
+
+.ace{
+    text-align: center;
+    background-color:crimson;
+    border: 2px solid white;
+    position: absolute;
+    top: 775px;
+    left: 850px;
+}
+
+.mission{
+    text-align: left;
+    background-color: black;
+    border: 5px solid white;
+    position: absolute;
+    top: 775px;
+    left: 50px;
+    right: 625px;
+}
+
+.body{
+    position: absolute;
+    top: 950px;
+    right: 670px;
+    left: 80px;
+    background-color:burlywood;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.backtotop{
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    top: 1375px;
+    left: 675px;
+
+}
+
+.tableau{
+    position: absolute;
+    top: 900px;
+    background-color: white;
+    
+
+}
